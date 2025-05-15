@@ -587,6 +587,7 @@ FLOWS = {
         "solax",
         "soma",
         "somfy_mylink",
+        "somfy_rts_hub",
         "sonarr",
         "songpal",
         "sonos",

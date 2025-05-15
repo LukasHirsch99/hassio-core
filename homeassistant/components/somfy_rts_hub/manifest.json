@@ -1,0 +1,17 @@
+{
+  "domain": "somfy_rts_hub",
+  "name": "Somfy RTS Hub",
+  "codeowners": ["@LukasHirsch99"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://www.home-assistant.io/integrations/somfy_rts_hub",
+  "iot_class": "local_polling",
+  "quality_scale": "bronze",
+  "requirements": ["somfy-rts-hub==1.1"],
+  "single_config_entry": true,
+  "zeroconf": [
+    {
+      "type": "_somfy-socks._tcp.local."
+    }
+  ]
+}

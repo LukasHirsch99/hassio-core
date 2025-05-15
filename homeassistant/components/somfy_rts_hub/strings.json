@@ -1,0 +1,10 @@
+{
+  "options": {
+    "step": {
+      "get_covers": {
+        "title": "Covers",
+        "description": "# The following controllers were found:\n{controller_list}"
+      }
+    }
+  }
+}
