@@ -2790,6 +2790,9 @@ solax==3.2.3
 # homeassistant.components.somfy_mylink
 somfy-mylink-synergy==1.0.6
 
+# homeassistant.components.somfy_rts_hub
+somfy-rts-hub==1.1
+
 # homeassistant.components.sonos
 sonos-websocket==0.1.3
 

@@ -851,6 +851,11 @@ ZEROCONF = {
             "domain": "cambridge_audio",
         },
     ],
+    "_somfy-socks._tcp.local.": [
+        {
+            "domain": "somfy_rts_hub",
+        },
+    ],
     "_sonos._tcp.local.": [
         {
             "domain": "sonos",

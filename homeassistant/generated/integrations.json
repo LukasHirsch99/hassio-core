@@ -6148,6 +6148,13 @@
       "config_flow": true,
       "iot_class": "assumed_state"
     },
+    "somfy_rts_hub": {
+      "name": "Somfy RTS Hub",
+      "integration_type": "hub",
+      "config_flow": true,
+      "iot_class": "local_polling",
+      "single_config_entry": true
+    },
     "sonarr": {
       "name": "Sonarr",
       "integration_type": "hub",
